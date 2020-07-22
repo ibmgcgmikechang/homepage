@@ -9,6 +9,7 @@ const Search = ( {getQuery} ) => {
     return (
         <section className='search'>
             <form>
+		Search: 
                 <input type="text" 
                     className="form-control" 
                     placeholders="Search characters" 
